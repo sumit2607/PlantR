@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PlantR</string>
+    <string name="design_by">Design By Sumit Rai</string>
+    <string name="select_your_language">Select Your Language</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="menu_dashboard" translatable="false">deshboard</string>
+    <string name="menu_leaderboard">leaderboard</string>
+    <string name="menu_store">menu_store</string>
+    <string name="menu_profile">menu_profile</string>
 </resources>

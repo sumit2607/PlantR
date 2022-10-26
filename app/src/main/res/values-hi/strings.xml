@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्लांटआर</string>
+    <string name="design_by">सुमित राय द्वारा डिजाइन</string>
+    <string name="select_your_language">अपनी भाषा का चयन करें</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="save">सहेजें</string>
+</resources>
