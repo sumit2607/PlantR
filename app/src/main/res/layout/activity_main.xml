@@ -21,7 +21,7 @@
         android:id="@+id/bottomBar"
         android:layout_width="match_parent"
         android:layout_height="70dp"
-        app:backgroundColor="@color/purple_200"
+        app:backgroundColor="#460BE4"
         app:textColor="@color/white"
         app:textSize="14sp"
         app:iconSize="24dp"
