@@ -1,11 +1,9 @@
-package com.example.plantr.ui
+package com.example.plantr.ui.Activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.plantr.R
 import com.example.plantr.ui.adapter.CustomAdapter

@@ -1,4 +1,4 @@
-package com.example.plantr.ui
+package com.example.plantr.ui.allFragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,8 +1,6 @@
 package com.example.plantr.ui.adapter
 
 import android.content.Context
-import android.content.Intent
-import android.content.Intent.FLAG_ACTIVITY_NEW_TASK
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -10,8 +8,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.plantr.R
-import com.example.plantr.ui.MainActivity
-import kotlinx.android.synthetic.main.select_language_item_layout.view.*
 
 
 class CustomAdapter(private val mList: List<ItemsViewModel>) : RecyclerView.Adapter<CustomAdapter.ViewHolder>() {

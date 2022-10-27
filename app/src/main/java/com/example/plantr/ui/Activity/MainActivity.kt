@@ -1,4 +1,4 @@
-package com.example.plantr.ui
+package com.example.plantr.ui.Activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

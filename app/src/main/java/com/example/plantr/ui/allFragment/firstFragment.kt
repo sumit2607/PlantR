@@ -1,4 +1,4 @@
-package com.example.plantr.ui.adapter
+package com.example.plantr.ui.allFragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,16 +8,15 @@ import android.view.ViewGroup
 import com.example.plantr.R
 
 
-class SecondFragment : Fragment() {
-
+class firstFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_second, container, false)
+        return inflater.inflate(R.layout.fragment_first, container, false)
     }
 
 
-}
+    }

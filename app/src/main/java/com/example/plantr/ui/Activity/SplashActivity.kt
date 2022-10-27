@@ -1,4 +1,4 @@
-package com.example.plantr.ui
+package com.example.plantr.ui.Activity
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -6,7 +6,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.view.WindowManager
 import com.example.plantr.R
 
 @SuppressLint("CustomSplashScreen")
